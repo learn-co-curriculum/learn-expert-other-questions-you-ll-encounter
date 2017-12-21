@@ -9,4 +9,5 @@ But there are a lot more scenarios and questions you'll see as a Learn Expert. T
 - [Learn IDE Issues](https://github.com/flatiron-labs/learn-support/blob/master/learn-ide.md)
 - [Common Lab Errors](https://github.com/flatiron-labs/learn-support/blob/master/common-lab-errors.md)  (we'll refine this further) 
 
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-other-questions-you-ll-encounter'>Learn Expert Other Questions You'll Encounter</a> on Learn.co and start learning to code for free.</p>
