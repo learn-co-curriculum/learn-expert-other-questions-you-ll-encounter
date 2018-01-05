@@ -1,8 +1,8 @@
 # Using the Reference Guide
 
-This track covers the logistics of being a Learn Expert, teaching tips on answering questions, and common technical problems you'll encounter. 
+This track covers the logistics of being a Technical Coach, teaching tips on answering questions, and common technical problems you'll encounter. 
 
-But there are a lot more scenarios and questions you'll see as a Learn Expert. The [Reference Guide](https://github.com/flatiron-labs/learn-support) covers a lot of them and we'll be continuously refining, editing, and adding more info to it. Here are some things that it covers so far. 
+But there are a lot more scenarios and questions you'll see as a Technical Coach. The [Reference Guide](https://github.com/flatiron-labs/learn-support) covers a lot of them and we'll be continuously refining, editing, and adding more info to it. Here are some things that it covers so far. Also make sure to check out the [Help Docs](http://help.learn.co)!
 
 - [Questions about Blogging](https://github.com/flatiron-labs/learn-support/blob/master/blogging.md)
 - [Environment Setup Issues](https://github.com/flatiron-labs/learn-support/blob/master/environment-setup.md)
